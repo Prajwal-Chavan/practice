@@ -1,2 +1,1 @@
 good morning
-how do you configure jenkins yo automatically trigger builds when an python project is updated in github repo
